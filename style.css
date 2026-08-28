@@ -22,11 +22,32 @@
             }
         #about {
             color: #abcfff;
-            max-width: 35%;
+            width: 90%; max-width: 500px;
             height: 80%;
             margin-left: auto;
             margin-right: auto;
             margin-top: 3%;
+            background-color: #0f0f0f;
+            border-radius: 25px;
+        }
+
+        #projects {
+            color: #abcfff;
+            width: 90%; max-width: 500px;
+            height: 80%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 3%;
+            background-color: #0f0f0f;
+            border-radius: 25px;
+        }
+        #contact {
+            color: #abcfff;
+            width: 90%; max-width: 500px;
+            height: 85%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 4%;
             background-color: #0f0f0f;
             border-radius: 25px;
         }
