@@ -14,5 +14,6 @@ I wrote a simple website with 3 sections, along with the use of CSS. The website
 - Google Translate
 - https://www.w3schools.com/html/default.asp
 - https://www.w3schools.com/css/default.asp
+- https://fonts.google.com/specimen/Lexend?preview.script=Latn
 - Experience gained during secondary school education, more specifically at a technical school in the field of Information Technology
 - Emotional support from my friends
