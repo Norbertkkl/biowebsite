@@ -6,7 +6,7 @@
             max-width: fit-content;
             margin-left: auto;
             margin-right: auto;
-            margin-top: 12%;
+            margin-top: 8%;
             color: #abcfff;
         }
         #tekspodnaglowkiem {
@@ -22,32 +22,58 @@
             }
         #about {
             color: #abcfff;
-            width: 90%; max-width: 500px;
-            height: 80%;
-            margin-left: auto;
-            margin-right: auto;
+            width: auto; max-width: 500px;
+            height: auto;
+            margin: auto;
             margin-top: 3%;
             background-color: #0f0f0f;
-            border-radius: 25px;
+            border-radius: 12px;  
         }
 
         #projects {
             color: #abcfff;
-            width: 90%; max-width: 500px;
-            height: 80%;
-            margin-left: auto;
-            margin-right: auto;
-            margin-top: 3%;
+            width: auto; max-width: 500px;
+            height: auto;
+            margin: auto;
             background-color: #0f0f0f;
-            border-radius: 25px;
+            border-radius: 12px;  
         }
         #contact {
             color: #abcfff;
-            width: 90%; max-width: 500px;
-            height: 85%;
-            margin-left: auto;
-            margin-right: auto;
-            margin-top: 4%;
+            width: auto; max-width: 500px;
+            height: auto;
+            margin: auto;
             background-color: #0f0f0f;
-            border-radius: 25px;
+            border-radius: 12px;  
+        }
+        #h2-contact {
+            text-align: center;
+        }
+
+        #h2-about {
+            text-align: center;
+        }
+
+        #h2-projects {
+            text-align: center;
+        }
+
+        #p-aboutme {
+            text-align: center;
+            line-height: 2.3;
+        }
+
+        #p-techstack {
+            text-align: center;
+            line-height: 2.3;
+        }
+
+        #p-contact {
+            text-align: center;
+            line-height: normal;
+        }
+
+        #p-fooster {
+            text-align: center;
+            color: aliceblue;
         }
