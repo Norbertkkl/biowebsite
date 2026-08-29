@@ -10,4 +10,5 @@ I wrote a simple website with 3 sections, along with the use of CSS. The website
 - Then I connected using VS Code to this machine using the SSH protocol
 - Then I simply started creating the skeleton and plan of the website, and then implemented it.
 
+## Use of AI
 SI was used to assess the consistency of file logic as well as to analyze the website's responsiveness
