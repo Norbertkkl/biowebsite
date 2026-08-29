@@ -1,15 +1,13 @@
+`(The file was translated by Google Translator)`
 # Personal Bio Website
-
-For the first time in a long while, I wrote something in HTML and CSS. I created a simple personal website featuring a few questions about me, my tech stack, and ways to connect.
+I wrote a simple website with 3 sections, along with the use of CSS. The website has a modern color scheme, which I personally like.
 
 ## Live Demo
 - **URL:** [https://norbertkkl.github.io/biowebsite/](https://norbertkkl.github.io/biowebsite/)
 
-## Tech Stack
-- HTML5
-- CSS3 (Custom responsive layout)
-- Nginx (Self-hosted on Linux server)
-- GitHub Pages
+## How did I create this website?
+- First, I created a new instance on my VM, where I created a niginx server.
+- Then I connected using VS Code to this machine using the SSH protocol
+- Then I simply started creating the skeleton and plan of the website, and then implemented it.
 
-## AI Usage
-Used AI as a rubber duck for reviewing CSS layout properties (fixing flex/max-width responsiveness across devices) and assisting with Linux Nginx reverse proxy configuration. All site content, design choices, and HTML structure were authored by me.
+SI was used to assess the consistency of file logic as well as to analyze the website's responsiveness
