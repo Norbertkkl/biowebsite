@@ -1,5 +1,9 @@
         body {
-            background-image: linear-gradient(to right, #0a0a0a, #050505); /* I learned gradients in the 2nd semester of the 3rd year of technical school */
+            background-image: url('background.gif');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            min-height: 100vh;
             font-family: 'Lexend', sans-serif; /* The best font ❤️ */
         }
         #naglowek {
@@ -77,3 +81,5 @@
             text-align: center;
             color: aliceblue;
         }
+
+        /* The best font ❤️ */
